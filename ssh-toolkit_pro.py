@@ -38,8 +38,8 @@ args = parser.parse_args()
 
 #Get config file and workdir from User
 #current_config = raw_input("Type in the full path of the current config file \n")
-#workdir = raw_input("Define the local directory where public keys can be verified or asign a stabil value to workdir variable \n")
-workdir = ""
+workdir = raw_input("Define the local directory where public keys can be verified or asign a stabil value to workdir variable \n")
+#workdir = ""
 current_key = raw_input("Paste here the public key if you want to Add or Remove or Press Enter to Continue -->  ")
 
 
