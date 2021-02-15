@@ -5,7 +5,7 @@ setup:
 - ssh-pro-config.py
 - ssh-toolkit_pro.py
 
-2.) Now you can generate you json config files with ssh-pro-config.py
+2.) Now you can generate your json config files with ssh-pro-config.py
 
 3.) Enjoy!:)
 
