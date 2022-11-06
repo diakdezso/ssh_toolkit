@@ -1,3 +1,6 @@
+<b>Aim : An SSH Toolkit for adding/removing public keys on multiple instances through SSH developed by Diák Dezső</b>
+
+
 setup:
 
 1.) First make sure you have all the files you need in the same directory:
